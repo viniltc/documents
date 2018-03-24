@@ -6,4 +6,4 @@ Thesis committee: [Etienne Burdet](https://www.imperial.ac.uk/people/e.burdet), 
 Master thesis defended on _04/June/2014_ at [Dept. Bioengineering](https://bioe-cmcvellore.weebly.com/), CMC Vellore. <br/>
 Thesis supervisor: [Suresh Devasahayam](https://bioe-cmcvellore.weebly.com/suresh.html) <br/>
 Thesis committe: [Ganapathy Krishnamurthi](https://ed.iitm.ac.in/~gankrish/), [
-Muraleedharan C. V.](https://www.sctimst.ac.in/People/muralicv)
+Muraleedharan CV](https://www.sctimst.ac.in/People/muralicv)
